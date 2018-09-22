@@ -1,0 +1,8 @@
+{
+    "id": "deployer",
+    "ssh_keys": [
+        "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCoY2tuZdn7VsvADL039Gi6IPLeUDgRMA+x7J8dpVPOtl4Ret/MoXTP8q3RmHYtmwsBpS09hNsuP0eRFlH36mpr9UBPOMUOzifmYP3LJqihlJO/9uZ2f0QUV0Pe5GP8UWvFhqg91c2TFfz2TMfZ4oOZ0SHa3e7w0Hut9louZntFUwIT1RaVtryzmQ/rLn/+TmXQWwIH8uoW+SnX5kry+uaA5LAGVYkUk1f7xAg9nd7rF6L9DXjTIUC7cWMqkmGAHFQKVn57x7vzDoKHkG01YPtOUX2CmiYsiSG8qVMt4Xz43KQak9ca0ljumywXyhhX0TqNRZ6EEJ82XsKoi37n4i2BjdRUAPsyVgmgi4EZ2at0E+1x3WhqMmBjJ+3HXf4FyXjNFv/B81BkRs1RU7oVvd+i3cuHvDomz0s8mjh9NXa6u9wcFrcmEsi5o/tokbKoBXBleMN6ZDrbyhTZ5te1D6lxcmZx5hb+VachqVgpgp3jqFa+/OvbiPNY+LuRtTY5Vvwp4fFilVaIID+iIQ8uV/IJIovY/AVWbQuP1zHiP53WqBMQMbNQQWuTZClCUhkDd6xNbhPRso/FHIIAGY7PYbBIOi+gkfBAcGDUhKPc5g/JH50BaqY2jLX/icMrOgT2QC9SGzwGg9NOg9o03YdbqScqNOa0cCqLS8ki6+UjWLCizw== khayelihle.tshuma@gmail.com"
+    ],
+    "groups": ["www-data", "sudo", "rvm", "sysadmin"],
+    "shell": "\/bin\/bash"
+  }
